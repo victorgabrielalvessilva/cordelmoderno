@@ -51,6 +51,18 @@ main p {
 section {
     margin-block: 40px;
 }
+
+section.imagem {
+    padding: 20px;
+}
+
+section.imagem p {
+    width: 40vw;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.375);
+    color: white;
+}
+
 section#flor {
     /*background-color: #073009;
     background-image: url(imagens/background001.jpg);
@@ -59,27 +71,11 @@ section#flor {
     background-attachment: fixed;*/
     background: #073009 url(imagens/background001.jpg) center center no-repeat fixed;
     background-size: cover;
-    padding: 20px;
-}
-
-section#flor p {
-    width: 40vw;
-    padding: 10px;
-    background-color: rgba(0, 0, 0, 0.375);
-    color: white;
 }
 
 section#carta {
     background: #C0CAB2 url(imagens/background002.jpg) center center no-repeat fixed;
     background-size: cover;
-    padding: 20px;
-}
-
-section#carta p {
-    width: 40vw;
-    padding: 10px;
-    background-color: rgba(0, 0, 0, 0.375);
-    color: white;
 }
 
 footer {
