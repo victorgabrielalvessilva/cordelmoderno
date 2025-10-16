@@ -27,6 +27,7 @@ header h1 {
 
 header p {
     font-family: var(--fontesubtitulo);
+    font-size: 1.3em;
 }
 
 header a {
