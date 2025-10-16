@@ -53,7 +53,7 @@ section {
 }
 
 section.imagem {
-    padding: 20px;
+    padding-block: 30px;
 }
 
 section.imagem p {
